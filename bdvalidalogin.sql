@@ -5,7 +5,7 @@ CREATE TABLE login (
   usuario VARCHAR(8),
   clave VARCHAR(8) NOT NULL,
   nombre VARCHAR(128) NOT NULL,
-  PRIMARY KEY (login)
+  PRIMARY KEY (usuario)
 );
 
 

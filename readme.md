@@ -8,7 +8,7 @@ Tabla: login
 
 Campos de la tabla login:
 
-login - VARCHAR(8)
+usuario - VARCHAR(8)
 
 clave - VARCHAR(8)
 
